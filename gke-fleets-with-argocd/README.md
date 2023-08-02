@@ -47,7 +47,7 @@ git clone https://github.com/GoogleCloudPlatform/gke-poc-toolkit-demos.git
 cp -rf gke-poc-toolkit-demos/gke-fleets-with-argocd/argo-repo-sync ./
 cp -rf gke-poc-toolkit-demos/gke-fleets-with-argocd/argo-cd-gke ./
 cp -rf gke-poc-toolkit-demos/gke-fleets-with-argocd/scripts ./ 
-cp -rf gke-poc-toolkit-demos/gke-fleets-with-argocd/config.yaml ./gke-poc-toolkit/config.yaml
+cp -rf gke-poc-toolkit-demos/gke-fleets-with-argocd/config.yaml ./config.yaml
 rm -rf gke-poc-toolkit-demos
 ```
 
